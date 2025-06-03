@@ -1,1 +1,1 @@
-javascript:location.reload();
+javascript:alert("Hello");
